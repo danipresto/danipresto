@@ -17,7 +17,7 @@ Welcome to my github ! My name is Daniel and i'm a Computer Engineering graduate
 - 🌟 In my early graduation days, I was actually a hardware enthusiast 😳. A year an a half ago, i 
 got my self entangled with software engineering (specifically back end).
 - 🌟 Main hobbies include: gaming, watching films and playing piano.
-- 🌟 Love to try learn new languages. Currently i'm interested in japanese. 
+- 🌟 Love to try learn new languages. Currently I'm interested in japanese. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipresto&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
