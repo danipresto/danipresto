@@ -14,7 +14,7 @@ Welcome to my github ! My name is Daniel and i'm a Computer Engineering graduate
 
 ### 🌟 Fun facts: 
 
-- 🌟 In my early graduation days, i was actually a hardware enthusiast 😳. A year an a half ago, i 
+- 🌟 In my early graduation days, I was actually a hardware enthusiast 😳. A year an a half ago, i 
 got my self entangled with software engineering (specifically back end).
 - 🌟 Main hobbies include: gaming, watching films and playing piano.
 - 🌟 Love to try learn new languages. Currently i'm interested in japanese. 
