@@ -9,8 +9,9 @@
 Welcome to my github ! My name is Daniel and i'm a Computer Engineering graduate student at Federal University of Ceará (Brazil) . I'm always working on improvement of my current skills , and acquirement of new ones 🦉 (love to dive into new stuff).  
 </p>
   
-- 🌀 I’m currently working with C#/ASP.NET Core web system development
+- 🌀 In my current job, i work with C#/ASP.NET Core web system development
 - 🌀 Improving my skills on unit testing and container manangement
+- 🌀 Starting my journey with AWS Cloud Computing
 
 ### 🌟 Fun facts: 
 
